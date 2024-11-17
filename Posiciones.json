@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "equipo": "Millonarios",
+  "puntos": 45,
+  "partidosJugados": 20,
+  "victorias": 14,
+  "empates": 3,
+  "derrotas": 3,
+  "golesFavor": 32,
+  "golesContra": 15,
+  "diferenciaGoles": 17
+},
+{
+  "_id": 2,
+  "equipo": "Atlético Nacional",
+  "puntos": 42,
+  "partidosJugados": 20,
+  "victorias": 13,
+  "empates": 3,
+  "derrotas": 4,
+  "golesFavor": 30,
+  "golesContra": 18,
+  "diferenciaGoles": 12
+},
+{
+  "_id": 3,
+  "equipo": "Independiente Santa Fe",
+  "puntos": 38,
+  "partidosJugados": 20,
+  "victorias": 11,
+  "empates": 5,
+  "derrotas": 4,
+  "golesFavor": 28,
+  "golesContra": 20,
+  "diferenciaGoles": 8
+},
+{
+  "_id": 4,
+  "equipo": "América de Cali",
+  "puntos": 35,
+  "partidosJugados": 20,
+  "victorias": 10,
+  "empates": 5,
+  "derrotas": 5,
+  "golesFavor": 26,
+  "golesContra": 22,
+  "diferenciaGoles": 4
+},
+{
+  "_id": 5,
+  "equipo": "Deportivo Cali",
+  "puntos": 30,
+  "partidosJugados": 20,
+  "victorias": 9,
+  "empates": 3,
+  "derrotas": 8,
+  "golesFavor": 24,
+  "golesContra": 23,
+  "diferenciaGoles": 1
+}]

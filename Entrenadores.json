@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "equipo": "Millonarios",
+  "entrenador": "Alberto Gamero"
+},
+{
+  "_id": 2,
+  "equipo": "Atlético Nacional",
+  "entrenador": "Efrain Juarez"
+},
+{
+  "_id": 3,
+  "equipo": "Independiente Santa Fe",
+  "entrenador": "Pablo Peirano"
+},
+{
+  "_id": 4,
+  "equipo": "America De Cali",
+  "entrenador": "Jorge da Silva"
+},
+{
+  "_id": 5,
+  "equipo": "Deportivo Cali",
+  "entrenador": "Alfredo Arias"
+}]

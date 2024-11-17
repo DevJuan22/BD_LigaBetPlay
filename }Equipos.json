@@ -1,0 +1,30 @@
+[{
+  "_id": 1,
+  "ciudad": "Bogotá",
+  "estadio": "El Campín",
+  "equipo": "Millonarios"
+},
+{
+  "_id": 2,
+  "ciudad": "Medellín",
+  "estadio": "Atanasio Girardot",
+  "equipo": "Atlético Nacional"
+},
+{
+  "_id": 3,
+  "ciudad": "Bogotá",
+  "estadio": "El Campín",
+  "equipo": "Independiente Santa Fe"
+},
+{
+  "_id": 4,
+  "ciudad": "Cali",
+  "estadio": "Pascual Guerrero",
+  "equipo": "América de Cali"
+},
+{
+  "_id": 5,
+  "ciudad": "Cali",
+  "estadio": "Estadio Deportivo Cali",
+  "equipo": "Deportivo Cali"
+}]

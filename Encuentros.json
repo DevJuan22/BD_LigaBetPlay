@@ -1,0 +1,64 @@
+[{
+  "_id": 1,
+  "equipo_local": "Millonarios",
+  "equipo_visitante": "Atlético Nacional",
+  "resultado": "1-1",
+  "puntos_local": 1,
+  "puntos_visitante": 1
+},
+{
+  "_id": 2,
+  "equipo_local": "Independiente Santa fe",
+  "equipo_visitante": "Deportivo Cali",
+  "resultado": "2-0",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+},
+{
+  "_id": 3,
+  "equipo_local": "America de Cali",
+  "equipo_visitante": "Millonarios",
+  "resultado": "1-4",
+  "puntos_local": 0,
+  "puntos_visitante": 3
+},
+{
+  "_id": 4,
+  "equipo_local": "Atlético Nacional",
+  "equipo_visitante": "Independiente Santa fe",
+  "resultado": "2-2",
+  "puntos_local": 1,
+  "puntos_visitante": 1
+},
+{
+  "_id": 5,
+  "equipo_local": "America de Cali",
+  "equipo_visitante": "Deportivo Cali",
+  "resultado": "2-1",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+},
+{
+  "_id": 6,
+  "equipo_local": "Millonarios",
+  "equipo_visitante": "Deportivo Cali",
+  "resultado": "1-0",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+},
+{
+  "_id": 7,
+  "equipo_local": "Deportivo Cali",
+  "equipo_visitante": "Atlético Nacional",
+  "resultado": "2-1",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+},
+{
+  "_id": 8,
+  "equipo_local": "Millonarios",
+  "equipo_visitante": "Independiente Santa fe",
+  "resultado": "3-1",
+  "puntos_local": 3,
+  "puntos_visitante": 0
+}]

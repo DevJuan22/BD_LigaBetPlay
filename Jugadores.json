@@ -1,0 +1,90 @@
+[{
+  "_id": 1,
+  "nombre": "David Mackalister Silva",
+  "posicion": "Centrocampista",
+  "edad": 36,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "1",
+  "equipo": "Millonarios"
+},
+{
+  "_id": 2,
+  "nombre": "Felipe Román",
+  "posicion": "Defensa",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "1",
+  "equipo": "Millonarios"
+},
+{
+  "_id": 3,
+  "nombre": "Dorlan Pabón",
+  "posicion": "Delantero",
+  "edad": 35,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "2",
+  "equipo": "Atlético Nacional"
+},
+{
+  "_id": 4,
+  "nombre": "Kevin Mier",
+  "posicion": "Portero",
+  "edad": 23,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "2",
+  "equipo": "Atlético Nacional"
+},
+{
+  "_id": 5,
+  "nombre": "Wilson Morelo",
+  "posicion": "Delantero",
+  "edad": 36,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "3",
+  "equipo": "Independiente Santa Fe"
+},
+{
+  "_id": 6,
+  "nombre": "Leandro Castellanos",
+  "posicion": "Portero",
+  "edad": 39,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "3",
+  "equipo": "Independiente Santa Fe"
+},
+{
+  "_id": 7,
+  "nombre": "Adrián Ramos",
+  "posicion": "Delantero",
+  "edad": 37,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "4",
+  "equipo": "América de Cali"
+},
+{
+  "_id": 8,
+  "nombre": "Diego Novoa",
+  "posicion": "Portero",
+  "edad": 34,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "4",
+  "equipo": "América de Cali"
+},
+{
+  "_id": 9,
+  "nombre": "Teófilo Gutiérrez",
+  "posicion": "Delantero",
+  "edad": 39,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "5",
+  "equipo": "Deportivo Cali"
+},
+{
+  "_id": 10,
+  "nombre": "Guillermo De Amores",
+  "posicion": "Portero",
+  "edad": 29,
+  "nacionalidad": "Uruguaya",
+  "equipo_id": "5",
+  "equipo": "Deportivo Cali"
+}]
